@@ -4,3 +4,5 @@ coverage
 integration/public/bundle.js
 example/*.svg
 package-lock.json
+.DS_Store
+*~

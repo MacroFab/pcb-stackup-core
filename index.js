@@ -40,7 +40,7 @@ module.exports = function pcbStackupCore(layers, inputOpts) {
       side,
       sorted[side],
       sorted.drills,
-      sorted.outline,
+      sorted.outlines,
       useOutline
     )
   })
